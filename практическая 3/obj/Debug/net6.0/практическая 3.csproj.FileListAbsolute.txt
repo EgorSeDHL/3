@@ -1,0 +1,15 @@
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\bin\Debug\net6.0\практическая 3.exe
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\bin\Debug\net6.0\практическая 3.deps.json
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\bin\Debug\net6.0\практическая 3.runtimeconfig.json
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\bin\Debug\net6.0\практическая 3.dll
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\bin\Debug\net6.0\практическая 3.pdb
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\obj\Debug\net6.0\практическая 3.csproj.AssemblyReference.cache
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\obj\Debug\net6.0\практическая 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\obj\Debug\net6.0\практическая 3.AssemblyInfoInputs.cache
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\obj\Debug\net6.0\практическая 3.AssemblyInfo.cs
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\obj\Debug\net6.0\практическая 3.csproj.CoreCompileInputs.cache
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\obj\Debug\net6.0\практическая 3.dll
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\obj\Debug\net6.0\refint\практическая 3.dll
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\obj\Debug\net6.0\практическая 3.pdb
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\obj\Debug\net6.0\практическая 3.genruntimeconfig.cache
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\практическая 3\практическая 3\obj\Debug\net6.0\ref\практическая 3.dll
